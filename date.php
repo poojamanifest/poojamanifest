@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+				<html>
 <head>
   <title>jQuery Datepicker UI Example - Demo Preview</title>
   <meta name="robots" content="noindex, nofollow"/>
